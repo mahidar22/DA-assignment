@@ -1,6 +1,5 @@
 # DA-assignment
-bytexl DA assignment
-# Flipkart Laptop Dataset (350 Rows)
+bytexl DA assignmen
 
 ## Overview
 This dataset is a **synthetic Flipkart-style laptop product dataset** created for **data analysis, visualization, and academic projects**.  
